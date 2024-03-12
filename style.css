@@ -1,0 +1,31 @@
+body{
+	/*background-color:#FDC9EE;*/
+	background-image:url('https://avatars.mds.yandex.net/i?id=a7afd279a6a737d0aaf0bcc3b7ceb8f3d07decbd-9843573-images-thumbs&n=13');
+	background-size:100%;
+	font-family: "Playfair Display", serif;
+}
+h1 {
+	color:purple;
+	text-align:center;
+}
+h2 {
+	color:green;
+	
+}
+p {
+	background-color:lightpink;
+	text-align:justify;
+}
+table {
+	border:1px solid green;
+	border-collapse:collapse;
+}
+th,td {
+	border:1px solid green;	
+}
+.playfair-display-body {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
